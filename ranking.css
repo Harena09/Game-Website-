@@ -1,0 +1,54 @@
+
+/* Ranking Page Style*/
+
+* {
+
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+     
+}
+
+    html{
+
+        height: 100%;
+      
+      }
+      
+      
+      body {
+      
+      height: 100%;
+      margin: 0px;
+      padding: 0px;
+      
+      }
+
+      .ranking{
+
+        background-image: url(../img/topviewimg.jpeg);
+        max-width: 100%;
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+
+      }
+
+
+      .fa-arrow-left{
+
+     font-size: 50px;
+     color:black;
+     position: relative;
+     left: 50px;
+     cursor: pointer;
+
+      }
+
+      .fa-arrow-left:hover{
+        color: white;
+      }
