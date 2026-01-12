@@ -51,6 +51,18 @@ What I learned:
 - open the project folder
 - open the index.html and create an account
 
+
+## Known Issues & Improvements
+
+This project was developed as a second-year university coursework and may contain minor bugs or unfinished features.  
+Some improvements that could be made include:
+- Improving collision detection accuracy  
+- Enhancing game difficulty balancing  
+- Adding sound effects and animations  
+- Improving mobile responsiveness  
+- Storing scores in a real database instead of Local Storage  
+
+
 👤 Author
 Harenasoa Sarobidy Ralainandrasana
 BSc Computer Science (Systems Engineering)
